@@ -10,6 +10,7 @@ public class User {
     private String name;
     private Integer age;
     private  String email;
+
     //当model字段多于数据库中 报错
     //private  int num;
 }
